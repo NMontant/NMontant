@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NMontant
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis and Data Engineering
 
 
 <!---
